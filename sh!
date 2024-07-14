@@ -1,0 +1,1 @@
+-- psql --username=freecodecamp --dbname=salon -a -f temp.sql
